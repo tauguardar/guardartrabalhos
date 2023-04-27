@@ -19,3 +19,13 @@ body{
 .imagemcatsdog{
     width: 15%;
 }
+
+.sobre{
+    display: flex;
+    justify-content: center;
+}
+
+.sobre-div-conteudo{
+    width: 35%;
+
+}
